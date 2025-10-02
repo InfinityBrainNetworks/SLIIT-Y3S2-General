@@ -1,6 +1,6 @@
 # Assignment List Down
 
-## SE3071 - Digital Image Processing [2025/JUL]
+## SE3091 - Games Technology [2025/JUL]
 
 ### 01. Assignment 02 WE
 
@@ -32,3 +32,23 @@ graph TD; The-Courtyard-of-Beginnings-->The-Potion-Chamber; The-Potion-Chamber--
 ```
 
 for more details read the asseement [doc](./Assignment%20Docs/GT/SE3091%20Final%20Project%202025%20.pdf)
+
+<br/>
+
+## SE3071 - Digital Image Processing
+
+### Final Project – Domain-Specific Image Analysis and Enhancement Tool using Python & OpenCV
+
+><span style="color : crimson"> **Deadline : Not Mentioned** _ *(Overall Marks 30%)*</span>
+
+```markdown
+# Create Education / e-Learning
+Whiteboard photos, textbook scans, lecture slides
+```
+for more details read the asseement [doc](./Assignment%20Docs/GT/SE3071%20-%20Final%20Project%20.pdf)
+
+#### Workflow
+```mermaid
+graph TD; Complete-And-Pack-the-Python-Project-->Create-PDF-Report-->Attend-the-Viva-Session;
+```
+
