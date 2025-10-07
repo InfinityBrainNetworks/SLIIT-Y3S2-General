@@ -63,9 +63,9 @@ for more details read the asseement [doc](./Assignment%20Docs/GT/SE3071%20-%20Fi
 
 ><span style="color : crimson"> **Deadline : OCT - 08** _ *(Overall Marks 9%)*</span>
 
-- [ ] Project: 1 - 3D skateboard modeling and texturing
-- [ ] Project: 2 - Donut tray
-- [ ] Project: 3 - Apple Watch
+- [x] Project: 1 - 3D skateboard modeling and texturing
+- [x] Project: 2 - Donut tray
+- [x] Project: 3 - Apple Watch
 
 > Students have the freedom to select any 3D Modeling software for this assignment.
 
