@@ -1,152 +1,153 @@
 # Finals Work Plane
 
-## `※` 3D Modeling and Animation
+## `※` <span style="color:Gold;">`◑`</span> 3D Modeling and Animation
 
-### Lectures 
-- [ ] Lecture-01-CONCEPTS-OF-SPATIAL-REPRESENTATION <span style="color:Chartreuse; font-size: 18px"> `←`</span>
-- [ ] Lecture-02-POLYGONAL--PRIMITIVE-MODELLING-2 
-- [ ] Lecture-03-SPLINE--PATCH-MODELLING
-- [ ] Lecture-04-SURFACING--MATERIALS
-- [ ] Lecture-05-SURFACING-PART-II
-- [ ] Lecture-06-UV-MAPPING-I
-- [ ] Lecture-07-UV-MAPPING-II
-- [ ] Lecture-08-LIGHTING-PRINCIPLES
-- [ ] Lecture-09-RENDERING
-- [ ] Lecture-10-ENVIRONMENTS
-- [ ] Lecture-11-CAMERA-ANIMATION
-- [ ] Lecture-12-3D-CHARACTER_ANIMATION
-- [ ] Lecture-13-3D-CHARACTER_RIGGING
+### <span style="color:Gold;">`◑`</span> Lectures 
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-01-CONCEPTS-OF-SPATIAL-REPRESENTATION <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-02-POLYGONAL--PRIMITIVE-MODELLING-2 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-03-SPLINE--PATCH-MODELLING <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-04-SURFACING--MATERIALS <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-05-SURFACING-PART-II <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-06-UV-MAPPING-I <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-07-UV-MAPPING-II <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-08-LIGHTING-PRINCIPLES <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-09-RENDERING <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-10-ENVIRONMENTS <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-11-CAMERA-ANIMATION <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-12-3D-CHARACTER_ANIMATION <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture-13-3D-CHARACTER_RIGGING <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
 
-### Pass Papers
-- [ ] Pass Paper 2025 - 3DMA
-- [ ] Pass Paper 2024 - 3DMA
-- [ ] Pass Paper 2023 - 3DMA
-- [ ] Pass Paper 2022 - 3DMA
-- [ ] Pass Paper 2019 - 3DMA
+### <span style="color:Gold;">`◑`</span> Pass Papers
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2025 - 3DMA <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2024 - 3DMA <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2023 - 3DMA <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2022 - 3DMA <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2019 - 3DMA <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
 
 <br/><hr style="height:2px;"/>
 
-## `※` Digital Video Production and Delivery
+## `※` <span style="color:Gold;">`◑`</span> Digital Video Production and Delivery
 
-  - [ ] 01. Basic Elements of Visual Language<span style="color:Chartreuse; font-size: 18px"> `←`</span>
-    - [ ] Part 01
-    - [ ] Part 02
-    - [ ] Part 03
+### <span style="color:Gold;">`◑`</span> Lectures
+  - [ ] 01. Basic Elements of Visual Language<span style="font-size: 18px"> `←`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> Part 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> Part 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> Part 03 <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span>
   - [ ] 02. Advanced Concept in Cinematography
-    - [ ] 01. Evolution of Cinema
-    - [ ] 02. The Conceptual Tools of Cinematography
-    - [ ] 03. Cinema as a Language A
-    - [ ] 04. Cinema as a Language B
-  - [ ] 03. Film Genres
-  - [ ] 04. Screen Writing and Shot List Preparation
+    - [ ] <span style="color:Gold;">`◑`</span> 01. Evolution of Cinema <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> 02. The Conceptual Tools of Cinematography <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> 03. Cinema as a Language A <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+    - [ ] <span style="color:Gold;">`◑`</span> 04. Cinema as a Language B <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+  - [ ] <span style="color:Gold;">`◑`</span> 03. Film Genres <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
+  - [ ] <span style="color:Gold;">`◑`</span> 04. Screen Writing and Shot List Preparation <span style="color:Gold;font-weight:bold">`Date : 25-10-29`</span>
 
-### Assignments
-- [ ] 01. Assignment 01 - Cuts : **Due Date** <span style="color:tomato;">`Tuesday, 21 October 2025, 11:59 PM`</span><span style="color:Chartreuse; font-size: 18px"> `←`</span>
-- [ ] 02. In Class Test Script Writing : **Due Date** <span style="color:tomato;">`Friday, 31 October 2025, 12:00 AM`</span>
-- [ ] 03. Assignment 02 - Sound Design : **Due Date** <span style="color:tomato;">`Thursday, 20 November 2025, 11:59 PM`</span>
-- [ ] 04. Final Project : **Due Date** <span style="color:tomato;">`Thursday, 20 November 2025, 11:59 PM`</span>
+### <span style="color:Gold;">`◔`</span> Assignments
+- [ ] <span style="color:Gold;">`◑`</span> 01. Assignment 01 - Cuts <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span> : **Due Date** <span style="color:tomato;">`Tuesday, 21 October 2025, 11:59 PM`</span><span style="color:Chartreuse; font-size: 18px"> `←`</span>
+- [ ] <span style="color:Gold;">`◑`</span> 02. In Class Test Script Writing : <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span> **Due Date** <span style="color:tomato;">`Friday, 31 October 2025, 12:00 AM`</span>
+- [ ] <span style="color:Gold;">`◑`</span> 03. Assignment 02 - Sound Design <span style="color:Gold;font-weight:bold">`Date : 25-10-21 : 25-11-20`</span> : **Due Date** <span style="color:tomato;">`Thursday, 20 November 2025, 11:59 PM`</span>
+- [ ] <span style="color:Gold;">`◑`</span> 04. Final Project : <span style="color:Gold;font-weight:bold">`Date : 25-10-21 : 25-11-20`</span> **Due Date** <span style="color:tomato;">`Thursday, 20 November 2025, 11:59 PM`</span>
   
-### Pass Papers
-- [ ] Pass Paper 2025 - DVPD
-- [ ] Pass Paper 2024 - DVPD
-- [ ] Pass Paper 2023 - DVPD
-- [ ] Pass Paper 2022 - DVPD
-- [ ] Pass Paper 2019 - DVPD
+### <span style="color:Gold;">`◑`</span> Pass Papers
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2025 - DVPD <span style="color:Gold;font-weight:bold">`Date : 25-11-03`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2024 - DVPD <span style="color:Gold;font-weight:bold">`Date : 25-11-03`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2023 - DVPD <span style="color:Gold;font-weight:bold">`Date : 25-11-03`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2022 - DVPD <span style="color:Gold;font-weight:bold">`Date : 25-11-03`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2019 - DVPD <span style="color:Gold;font-weight:bold">`Date : 25-11-03`</span>
 
 <br/><hr style="height:2px;"/>
 
-## `※` Digital Image Processing
+## `※` <span style="color:Gold;">`◑`</span> Digital Image Processing
 
-## Test
-- [ ] Preparing the Cheat Sheet<span style="color:Chartreuse; font-size: 18px"> `←`</span>
-- [ ] Practical Test : **Date** <span style="color:tomato;">`25th October Time: 12 PM – 1 PM`</span>
+## <span style="color:Gold;">`◑`</span> Test
+- [ ] <span style="color:Gold;">`◑`</span> Preparing the Cheat Sheet <span style="color:Gold;font-weight:bold">`Date : 25-10-21 : 25-10-24`</span><span style="font-size: 18px"> `←`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Practical Test : <span style="color:Gold;font-weight:bold">`Date : 25-10-25`</span> **Due Date** <span style="color:tomato;">`25th October Time: 12 PM – 1 PM`</span>
 
-### Labs
-- [x] Lab Sheet 01
-- [x] Lab Sheet 02
-- [x] Lab Sheet 03
-- [x] Lab Sheet 04
-- [x] Lab Sheet 05
-- [x] Lab Sheet 06
-- [x] Lab Sheet 07
-- [x] Lab Sheet 08
-- [x] Lab Sheet 09
-- [ ] Lab Sheet 10
-
-
-### Lectures
-- [ ] Lecture 01 - Digitization
-- [ ] Lecture 02 - Image Enhancement
-- [ ] Lecture 03 - Spatial Filtering
-- [ ] Lecture 04 - Segmentation
-- [ ] Lecture 05 - Morphological
-- [ ] Lecture 06 - Color Image Processing
-- [ ] Lecture 07
-- [ ] Lecture 08
-- [ ] Lecture 09
-
-### Tutorials
-- [ ] Tutorial 01
-- [ ] Tutorial 02
-
-### Worksheets
-- [ ] Worksheet 01
-- [ ] Worksheet 02
-- [ ] Worksheet 02
-
-### Revisions
-- [ ] Revision 01
-- [ ] Revision 02
-
-### Assignments 
-- [ ] 01. Final Project - Cuts : **Due Date** <span style="color:tomato;">`Not Mentioned`</span><span style="color:Chartreuse; font-size: 18px"> `←`</span>
+### <span style="color:Gold;">`◑`</span> Labs
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 01</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 02</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 03</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 04</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 05</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 06</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 07</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 08</s>
+- [x] <span style="color:Orchid;">`◉`</span> <s>Lab Sheet 09</s>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 10 <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
 
 
-### Pass Papers
-- [ ] Pass Paper 2025 - DIP
-- [ ] Pass Paper 2024 - DIP
-- [ ] Pass Paper 2023 - DIP
-- [ ] Pass Paper 2022 - DIP
-- [ ] Pass Paper 2019 - DIP
+### <span style="color:Gold;">`◑`</span> Lectures
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 01 - Digitization <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 02 - Image Enhancement <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 03 - Spatial Filtering <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 04 - Segmentation <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 05 - Morphological <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 06 - Color Image Processing <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 07 <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 08 <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 09 <span style="color:Gold;font-weight:bold">`Date : 25-10-30`</span>
+
+### <span style="color:Gold;">`◑`</span> Tutorials
+- [ ] <span style="color:Gold;">`◑`</span> Tutorial 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Tutorial 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+
+### <span style="color:Gold;">`◑`</span> Worksheets
+- [ ] <span style="color:Gold;">`◑`</span> Worksheet 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Worksheet 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Worksheet 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+
+### <span style="color:Gold;">`◑`</span> Revisions
+- [ ] <span style="color:Gold;">`◑`</span> Revision 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-21`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Revision 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+
+### <span style="color:Gold;">`◑`</span> Assignments 
+- [ ] <span style="color:Gold;">`◑`</span> 01. Final Project : <span style="color:Gold;font-weight:bold">`Date : 25-10-21 : 25-11-20`</span> **Due Date** <span style="color:tomato;">`Not Mentioned`</span><span style="font-size: 18px"> `←`</span>
+
+
+### <span style="color:Gold;">`◑`</span> Pass Papers
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2025 - DIP <span style="color:Gold;font-weight:bold">`Date : 25-11-04`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2024 - DIP <span style="color:Gold;font-weight:bold">`Date : 25-11-04`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2023 - DIP <span style="color:Gold;font-weight:bold">`Date : 25-11-04`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2022 - DIP <span style="color:Gold;font-weight:bold">`Date : 25-11-04`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2019 - DIP <span style="color:Gold;font-weight:bold">`Date : 25-11-04`</span>
 
 
 <br/><hr style="height:2px;"/>
 
-## `※` Game Technology
+## `※` <span style="color:Gold;">`◑`</span> Game Technology
 
-### Lectures
-- [ ] Lecture 01<span style="color:Chartreuse; font-size: 18px"> `←`</span>
-  - [ ] Part 01
-  - [ ] Part 02
+### <span style="color:Gold;">`◑`</span> Lectures
+- [ ] Lecture 01<span style="font-size: 18px"> `←`</span>
+  - [ ] <span style="color:Gold;">`◑`</span> Part 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+  - [ ] <span style="color:Gold;">`◑`</span> Part 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
 - [ ] Lecture 02
-  - [ ] Part 01
-  - [ ] Part 02
-- [ ] Lecture 03
-- [ ] Lecture 04
-- [ ] Lecture 05
-- [ ] Lecture 06
-- [ ] Lecture 07
+  - [ ] <span style="color:Gold;">`◑`</span> Part 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+  - [ ] <span style="color:Gold;">`◑`</span> Part 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-23`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 03 <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 04 <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 05 <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 06 <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lecture 07 <span style="color:Gold;font-weight:bold">`Date : 25-10-28`</span>
 
-### Labs
-- [ ] Lab Sheet 01
-- [ ] Lab Sheet 02
-- [ ] Lab Sheet 03
-- [ ] Lab Sheet 04
-- [ ] Lab Sheet 05
-- [ ] Lab Sheet 06
-- [ ] Lab Sheet 07
-- [ ] Lab Sheet 08
-- [ ] Lab Sheet 09
-- [ ] Lab Sheet 10
-- [ ] Lab Sheet 11
-- [ ] Lab Sheet 12
+### <span style="color:Gold;">`◑`</span> Labs
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 01 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 02 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 03 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 04 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 05 <span style="color:Gold;font-weight:bold">`Date : 25-10-22`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 06 <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 07 <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 08 <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 09 <span style="color:Gold;font-weight:bold">`Date : 25-10-24`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 10 <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 11 <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Lab Sheet 12 <span style="color:Gold;font-weight:bold">`Date : 25-10-27`</span>
 
-### Assignments
-- [ ] 01. Final Project - HP Game Project : **Due Date** <span style="color:tomato;">`Sunday, 26 October 2025, 11:59 PM`</span><span style="color:Chartreuse; font-size: 18px"> `←`</span>
+### <span style="color:Gold;">`◑`</span>  Assignments
+- [ ] <span style="color:Gold;">`◑`</span> 01. Final Project - HP Game Project : <span style="color:Gold;font-weight:bold">`Date : 25-10-21 : 25-11-20`</span> **Due Date** <span style="color:tomato;">`Sunday, 26 October 2025, 11:59 PM`</span><span style="font-size: 18px"> `←`</span>
 
-### Pass papers
-- [ ] Pass Paper 2025 - GT
-- [ ] Pass Paper 2024 - GT
-- [ ] Pass Paper 2023 - GT
-- [ ] Pass Paper 2022 - GT
-- [ ] Pass Paper 2019 - GT
+### <span style="color:Gold;">`◑`</span> Pass papers
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2025 - GT <span style="color:Gold;font-weight:bold">`Date : 25-10-31`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2024 - GT <span style="color:Gold;font-weight:bold">`Date : 25-10-31`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2023 - GT <span style="color:Gold;font-weight:bold">`Date : 25-10-31`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2022 - GT <span style="color:Gold;font-weight:bold">`Date : 25-10-31`</span>
+- [ ] <span style="color:Gold;">`◑`</span> Pass Paper 2019 - GT <span style="color:Gold;font-weight:bold">`Date : 25-10-31`</span>
