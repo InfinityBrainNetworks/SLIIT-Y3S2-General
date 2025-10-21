@@ -40,3 +40,12 @@
 | MediumOrchid      | <span style="color:mediumorchid;">MediumOrchid</span>           |
 | Plum              | <span style="color:plum;">Plum</span>                           |
 
+#### Single Issue creation sample code
+```bash
+gh issue create -R "InfinityBrainNetworks/SLIIT-Y3S2-General" --title "Test Issue" --body "Testing script"
+```
+
+#### To run
+```bash
+bash create_issues.sh
+```
