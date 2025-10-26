@@ -19,7 +19,6 @@
 
 | Name              | Example                                                         |
 | ----------------- | --------------------------------------------------------------- |
-| Coral             | <span style="color:coral;">Coral</span>                         |
 | Tomato            | <span style="color:tomato;">Tomato</span>                       |
 | HotPink           | <span style="color:hotpink;">HotPink</span>                     |
 | DeepPink          | <span style="color:deeppink;">DeepPink</span>                   |
@@ -31,7 +30,6 @@
 | Turquoise         | <span style="color:turquoise;">Turquoise</span>                 |
 | MediumSpringGreen | <span style="color:mediumspringgreen;">MediumSpringGreen</span> |
 | LimeGreen         | <span style="color:limegreen;">LimeGreen</span>                 |
-| Chartreuse        | <span style="color:chartreuse;">Chartreuse</span>               |
 | Gold              | <span style="color:gold;">Gold</span>                           |
 | OrangeRed         | <span style="color:orangered;">OrangeRed</span>                 |
 | DarkOrange        | <span style="color:darkorange;">DarkOrange</span>               |
