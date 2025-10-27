@@ -47,3 +47,4 @@ gh issue create -R "InfinityBrainNetworks/SLIIT-Y3S2-General" --title "Test Issu
 ```bash
 bash create_issues.sh
 ```
+
